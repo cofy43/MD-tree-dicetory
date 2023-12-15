@@ -1,7 +1,7 @@
 {
   "name": "md-directory-tree",
   "displayName": "MD Directory Tree",
-  "description": "",
+  "description": "This extention build a ASCII three representation of any directory only selected \"Create directory tree\" option inside right click menu. After that to be create a file named structure.txt inside selected dir ",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.85.0"
