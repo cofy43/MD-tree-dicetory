@@ -7,8 +7,8 @@ Simple ASCCII directory tree representation for your README.md
 This extention build a ASCII three representation of any directory only selected \"Create directory tree\" option inside right click menu. After that to be create a file named structure.txt inside selected dir
 
 
-![Right click menu](https://github.com/cofy43/MD-tree-dicetory/tree/main/imagesmenuOption.png)
-![Ouput example](https://github.com/cofy43/MD-tree-dicetory/tree/main/imagesouput.png)
+![Right click menu](https://github.com/cofy43/MD-tree-dicetory/tree/main/images/menuOption.png)
+![Ouput example](https://github.com/cofy43/MD-tree-dicetory/tree/main/images/ouput.png)
 
 ## Extension Settings
 
