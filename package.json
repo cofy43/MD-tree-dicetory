@@ -64,5 +64,13 @@
     "@vscode/test-electron": "^2.3.8",
     "eslint": "^8.54.0",
     "typescript": "^5.3.2"
-  }
+  },
+  "bugs": {
+    "email": "cofy43@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cofy43/MD-tree-dicetory/tree/main/images.git"
+  },
+  "homepage": "https://github.com/cofy43/MD-tree-dicetory/tree/main/README.md"
 }
